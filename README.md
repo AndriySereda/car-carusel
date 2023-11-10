@@ -1,5 +1,5 @@
 # car-carusel
-Great looking Animation like car carusel, which you control
+Great looking Animation variaty luxury Car(anything can be used instead of them 😊)
 
 To watch the page result go to:
 
